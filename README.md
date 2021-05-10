@@ -1,0 +1,1 @@
+# golang-bitbucket-pipeline-config
